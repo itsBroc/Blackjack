@@ -1,0 +1,1 @@
+Java program that simulates the game Blackjack that operates within the terminal. Players take turns drawing cards to be the closest to reach 21 whilst not going over it and the dealer continually draws cards until their hand value is over 17.
